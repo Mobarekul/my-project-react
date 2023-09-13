@@ -1,5 +1,6 @@
 import { data } from "autoprefixer";
 import { useEffect, useState } from "react";
+import Blog from "../Blog/Blog";
 
 const Blogs = () => {
   const [blogs, setBlogs] = useState([]);
@@ -12,6 +13,9 @@ const Blogs = () => {
   return (
     <div className="md:w-1/3">
       <h2 className="text-3xl">Blogs: {blogs.length}</h2>
+      {blogs.map((blog) => (
+        <Blog key={blog.id} blog={blog}></Blog>
+      ))}
     </div>
   );
 };
