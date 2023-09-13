@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/d434TwZ/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+    "title": "Lorem Ipsum",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co/jr4Crm7/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+    "posted_date": "2023-09-13",
+    "reading_time": "10 mins",
+    "hashtags": ["#Lorem", "#Ipsum", "#Article"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/jr4Crm7/dose-media-b-U6-Jyh-SI6zo-unsplash.jpg",
+    "title": "Sample Article",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co/nDsdnkk/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+    "posted_date": "2023-09-12",
+    "reading_time": "8 mins",
+    "hashtags": ["#Sample", "#Article", "#Writing"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/nDsdnkk/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+    "title": "Fiction Story",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/tLDGW1v/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "posted_date": "2023-09-11",
+    "reading_time": "15 mins",
+    "hashtags": ["#Fiction", "#Story", "#Reading"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/tLDGW1v/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+    "title": "Tech News",
+    "author": "Robert Brown",
+    "author_img": "https://i.ibb.co/d434TwZ/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": "5 mins",
+    "hashtags": ["#Tech", "#News", "#Updates"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/d434TwZ/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+    "title": "Travel Adventures",
+    "author": "Emily Davis",
+    "author_img": "https://i.ibb.co/d434TwZ/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+    "posted_date": "2023-09-09",
+    "reading_time": "12 mins",
+    "hashtags": ["#Travel", "#Adventure", "#Explore"]
+  }
+]
